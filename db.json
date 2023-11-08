@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "thaoanhhaa1",
+      "password": "111111"
+    },
+    {
+      "username": "thaoanhhaa2",
+      "password": "111111",
+      "id": 3
+    },
+    {
+      "username": "thaoanhhaa3",
+      "password": "111111",
+      "id": 4
+    }
+  ],
+  "notes": [
+    {
+      "id": 1,
+      "title": "Home work",
+      "date": "2023/11/08",
+      "priority": 1,
+      "isLongTerm": true,
+      "user": 1
+    }
+  ]
+}
