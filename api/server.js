@@ -18,6 +18,9 @@ server.use(
 server.use(middlewares);
 
 server.use(jsonServer.bodyParser);
+
+server.get('/', (req, res) => res.send('Working..........'));
+
 server.post('/login', async (req, res) => {
     const resp = fs.readFileSync('db.json', 'utf8');
     const data = JSON.parse(resp);
