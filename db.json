@@ -2,28 +2,101 @@
   "users": [
     {
       "id": 1,
+      "name": "Twinkle",
       "username": "thaoanhhaa1",
       "password": "111111"
     },
     {
+      "name": "Twinkle",
       "username": "thaoanhhaa2",
       "password": "111111",
       "id": 3
     },
     {
+      "name": "Twinkle",
       "username": "thaoanhhaa3",
       "password": "111111",
       "id": 4
+    },
+    {
+      "username": "thaoanhhaa3",
+      "password": "111112",
+      "name": "Ha Anh Thao",
+      "id": 5
+    },
+    {
+      "name": "Tran Lam",
+      "username": "lam",
+      "password": "123",
+      "id": 6
+    },
+    {
+      "name": "Tran Nam",
+      "username": "nam",
+      "password": "123",
+      "id": 7
+    },
+    {
+      "name": "Tran Nam",
+      "username": "nam",
+      "password": "123",
+      "id": 8
+    },
+    {
+      "name": "",
+      "username": "",
+      "password": "",
+      "id": 9
     }
   ],
   "notes": [
     {
       "id": 1,
-      "title": "Home work",
-      "date": "2023/11/08",
+      "title": "Home work 12",
+      "date": "2023-11-09T10:15:31.895Z",
       "priority": 1,
       "isLongTerm": true,
       "user": 1
+    },
+    {
+      "id": 2,
+      "title": "React Native Home Work",
+      "date": "2023/11/08",
+      "priority": 1,
+      "isLongTerm": true,
+      "user": 2
+    },
+    {
+      "id": 3,
+      "title": "Spring boot....",
+      "date": "2023/11/08",
+      "priority": 2,
+      "isLongTerm": false,
+      "user": 1
+    },
+    {
+      "title": "Learn WWW",
+      "date": "2023-11-09T10:31:20.726Z",
+      "priority": 3,
+      "isLongTerm": true,
+      "user": 1,
+      "id": 4
+    },
+    {
+      "title": "123",
+      "date": "2023-11-09T10:52:40.253Z",
+      "priority": 1,
+      "isLongTerm": false,
+      "user": 1,
+      "id": 5
+    },
+    {
+      "title": "345",
+      "date": "2023-11-09T10:52:45.838Z",
+      "priority": 1,
+      "isLongTerm": true,
+      "user": 1,
+      "id": 6
     }
   ]
 }
